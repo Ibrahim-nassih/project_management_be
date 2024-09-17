@@ -1,16 +1,16 @@
-# LeadSync Backend
+# project management Backend
 
-LeadSync is a web application for project management and bug tracking implemented with Django for the backend and Angular for the frontend.
+web application for project management and bug tracking implemented with Django for the backend and Angular for the frontend.
 
 ## Getting Started
 
 To get started with LeadSync, follow these steps:
 
 - Clone the backend repository:
-git clone https://github.com/Ibrahim-nassih/leadSync_Backend.git
+git clone https://github.com/Ibrahim-nassih/project_management_be.git
 
 - Clone the frontend repository:
-git clone https://github.com/Ibrahim-nassih/leadSync_Frontend.git
+git clone https://github.com/Ibrahim-nassih/project_management_fe.git
 
 - Navigate to the backend directory:
 cd leadSync_Backend
@@ -24,12 +24,12 @@ If you're adding an existing Git repository to your project, use the following c
 
 ```bash
 cd existing_repo
-git remote add origin https://github.com/Ibrahim-nassih/leadSync_Backend.git
+git remote add origin https://github.com/Ibrahim-nassih/project_management_be.git
 git branch -M main
 git push -uf origin main
 ```
 ## API Endpoints
-LeadSync provides the following API endpoints:
+this app provides the following API endpoints:
 ```
 POST /register: Register a new user.
 GET /space: Retrieve information about a space.
@@ -47,8 +47,8 @@ GET /sprint/tickets: Retrieve tickets associated with a sprint.
 ```
 
 ## Visuals
-Watch a demo of LeadSync:
-[![Video Demo](https://img.youtube.com/vi/PZOanoZQVbM/0.jpg)](https://www.youtube.com/watch?v=PZOanoZQVbM)
+Watch a demo of project management:
+[![Video Demo](https://img.youtube.com/vi/PZOanoZQVbM/0.jpg)](https://youtu.be/_oMaxKaIThA)
 
 ## Author
-LeadSync backend is authored by Ibrahim Nassih.
+project management backend is authored by Ibrahim Nassih.
